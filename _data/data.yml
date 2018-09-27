@@ -65,32 +65,50 @@ education:
         Magna Cum Laude, Hispanic Scholarship Fund Recipient, Dean’s Award in Academic Excellence
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Talent Acquisition Manager 
+      time: June 2018 - Present
+      company: Fusion Media Group, a division of Univision Communications Inc 
       details: |
+        Recruitment for Gizmodo Media Group and The Onion, Inc; editorial, technology, commerce, and sales
+      
+          - Bullet point
+          - Bullet point
+          
+    - role: Senior Recruiter
+      time: June 2017 - June 2018
+      company: Fusion Media Group (Gizmodo Media Group & The Onion, Inc), a digital division of Univision Communications Inc 
+     details: |
+        Recruitment for Gizmodo Media Group and The Onion, Inc; editorial, technology, commerce, and sales
+      
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Principal Recruitment Consultant
+      time: December 2016 - May 2017
+      company: Fueled LLC
       details: |
+        Recruitment; product, design, and engineering
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Talent Acquisition
+      time: July 2015 - October 2016
+      company: Condé Nast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Recruitment for Co/Lab, the digital lab for all of their publishing brands; product, design, and engineering
 
           - Bullet point
           - Bullet point
+          
+    - role: Technical Recruiter
+      time: January 2015 - July 2015
+      company: IsPossible in Tech
+      details: |
+        Contingency Recruitment; Showtime, Refinery29, Peloton Interactive, GirlsWhoCode, Poppin, Jet, Etsy, SoulCycle
+
+          - Bullet point
+          - Bullet point
+
 
 skills:
     title: Skills &amp; Proficiency
