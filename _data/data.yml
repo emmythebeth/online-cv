@@ -55,30 +55,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    Seasoned full life-cycle recruiter experienced in training hiring managers, building recruitment workflows, on-campus recruitment, and developing diversity and inclusion initiatives.
+        Seasoned full life-cycle recruiter experienced in training hiring managers, building recruitment workflows, on-campus recruitment, and developing diversity and inclusion initiatives.
 
 education:
     - degree: BFA in Advertising and Digital Design
       university: Fashion Institute of Technology
       time: 2008 - 2012
       details: |
-      Magna Cum Laude, Hispanic Scholarship Fund Recipient, Dean’s Award in Academic Excellence
+        Magna Cum Laude, Hispanic Scholarship Fund Recipient, Dean’s Award in Academic Excellence
 
 experiences:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
           - Bullet point
           - Bullet point 
 
@@ -86,12 +76,6 @@ experiences:
       time: 2014 - 2015
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
 
