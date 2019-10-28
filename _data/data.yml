@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Emmy <br> de la Cruz
-    tagline: Talent Acquisition
+    tagline: Technical Recruiter
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -19,7 +19,7 @@ sidebar:
     github: 
     gitlab:
     bitbucket:
-    twitter: '@emmythebeth'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -55,10 +55,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I am a seasoned full life-cycle recruiter passionate about people and how they connect through technology and media. <br> 
-        Born in Dominican Republic and a native to New York City, I am fascinated by different cultures and bringing people together through communication. <br> 
-        I have proven success in placing MVP candidates in hard-to-fill roles, while being a trusted partner to hiring managers from start to finish. <br>
-        I am also obessed with details and drive all recruitment strategies by data. <br>
+        Full life cycle technical recruiter with five years of experience scaling diverse teams across top global markets. <br>
+        Specializing in product and engineering partnerships. <br> 
 
 education:
     - degree: BFA, Advertising and Digital Design, Hispanic Scholarship Fund Recipient GPA 3.7 
@@ -68,55 +66,73 @@ education:
         Magna Cum Laude, Hispanic Scholarship Fund Recipient, Dean’s Award in Academic Excellence
 
 experiences:
-    - role: Talent Acquisition Manager
-      time: June 2017 - Present
-      company: Fusion Media Group, a division of Univision Communications Inc
+ - role: Senior Technical Recruiter
+      time: January 2019 - Present
+      company: Uber Technologies
       details: |
-        Supporting Gizmodo Media Group and The Onion, Inc; <br>
-        product, engineering, data, editorial, ecommerce, and sales
+      Sourcing lead for UberEats <br>
+        Product Management
           
-          - Grew staff by 20% during the first six months surpassing 250 employees; negotiated all hiring budgets.
-          - Collaborated with hiring managers on identifying needs, strategized headcount during reorganization.
-          - Partnered with the Writers Guild of America-East on a diversity and inclusion initiative for the newsroom.
-          - Trained hiring managers on interview best practices; wrote interview kits and edited alerts for each job stage.
-          - Redesigned careers page, revised job description templates to meet EEOC and union regulations.
-          - Awarded a $5,000 grant by the Online News Association to launch a mentorship program for 14 interns.
-          - Implemented contracts with application tracking systems, edited workflows, and redesigned career portal.
-          - Built Greenhouse workflow, automated technical testing, and trained all hiring managers on processes.
-          - Traveled nationwide for career fairs and conferences to promote the organization and recruit talent.
+          - Sourcing across the following markets; New York City, San Francisco, Seattle, and Toronto.
+          - Partnering with key product stakeholders across various product teams; infrastructure, platform, new mobility, maps, driver, rider, safety and insurance, freight, ad tech, computer vision, and AI.
+          - Outbound sourcing for all open product roles; ranging from product manager to group product manager level.
+          - Tagging candidates in CRM and ATS for pipeline building and talent mapping across all archetypes. Strategized archetypes.
+          - Collaborating with sourcing team on interview prep and pitching.
+          - Managing recruiting workflow from outreach to onsite.
+          - Providing recruiting mentorship and leading recruiting events for local ERG chapters; LosUbers and Women of Uber.
+
+    - role: Talent Acquisition Manager
+      time: June 2017 - January 2019
+      company: Univision Communications Inc
+      details: |
+        Supported Gizmodo Media Group and Onion, Inc - a digital division of Univision Communications Inc. <br>
+          
+          - Grew staff across tech, editorial, and sales by 20%.
+          - Awarded $5,000 grant to build a summer mentorship program for 14 interns. Planned events. Coached mentors. Paired mentees.
+          - Represented digital brands at nationwide career fairs.
+          - Managed recruiting vendors and lead ATS migrations.
+          - Redesigned careers page and edited job descriptions.
+          - Trained hiring managers on interview best practices.
+          - Partnered with union on diversity and inclusion initiatives.
+          - Built recruitment workflows. Automated interview testing.
+          - Presented recruiting reports to c-suite. Strategized headcount.
           - Promoted talent and culture across all social platforms, including @GMGCareers with 7,000+ followers
 
 
-    - role: Technical Recruiter
-      time: Dec 2016 - May 2017
+    - role: Recruitment Consultant
+      time: Dec 2016 - June 2017
       company: Fueled
       details: |
-        Principal Consultant; engineering, product, design, and mobile 
+        Mobile Development Agency <br>
           
-          - Sourced for technical candidates across the US and Europe, assisted in relocation and visa sponsorship.
-          - Improved data integrity in Greenhouse using recruitment reports, tracked sourcing through social media.
-          - Evaluated testing/screening questions, condensing the technical recruitment process to six weeks
+          - Recruited for iOS, android, product managers and designers.
+          - Sourced in US and EU markets. Assisted in visa and relocation.
+          - Improved data integrity in weekly and quarterly reporting.
+          - Updated interview assessments with technical leads.
+          - Accelerated time to hire from 12 weeks to 6 weeks.
 
 
-    - role: Technical Recruiter
-      time: Jul 2015 - Oct 2016
+    - role: Talent Partner
+      time: Jul 2015 - Dec 2016
       company: Condé Nast
       details: |
-       Co/Lab; engineering, product, design, mobile, and seo
+       In House Technical Recruiting <br>
         
-          - Poached from staffing agency as the second hire for their first in-house technical recruiting team of three.
-          - Managed all technical requisitions; averaged sixteen openings, nine offers, and eight hires, per month. 
-          - Partnered with vendors, coding bootcamps and local events; ensured quality candidate experience.
-          - Negotiated market rate salaries and budgets; sourced, interviewed, and closed candidates.
+          - Hired as second technical recruiter for Co/Lab’s in house recruiting team; The New Yorker, Wired, Ars Technica, etc.
+          - Hired 31 FTE across engineering, product, design, data, and seo.
+          - Researched market rate salaries. Negotiated competing offers.
+          - Managed open job requisitions. Sourced and closed candidates.
+          - Promoted referrals. Improved candidate experience and culture.
           
           
     - role: Technical Recruiter
       time: Jan 2015 - Jul 2015
       company: IsPossible in Tech
       details: |
-        Contingency Staffing; Showtime, Refinery29, Peloton Interactive, GirlsWhoCode, Poppin, Jet, Etsy, SoulCycle
+        IT Staffing Firm
 
-          - Managed a full desk; made first offer within the first two weeks and signed first client after one quarter.
+          - Matched top technical talent and with scaling startups; Peloton, Sols, Reserve, Etsy, Jet, Refinery 29, Poppin, Girls Who Code.
+          - Made first offer within two weeks. Signed first client in Q1.
 
 
 skills:
@@ -124,29 +140,32 @@ skills:
 
     toolset:
       - name: Linkedin Recruiter
-        level: 90%
+        level: 95%
 
       - name: Greenhouse
         level: 95%
         
-      - name: Salary Negogiations
+      - name: iCIMS
+        level: 95%
+
+      - name: Entelo
         level: 90%
 
-      - name: Google Apps
+      - name: Angel List
         level: 80%
 
-      - name: Slack
+      - name: Crunchbase
         level: 75%
 
-      - name: Trello
+      - name: Stack Overflow
         level: 70%
-
-      - name: Sourcing
-        level: 90%
          
-      - name: Phone Screens
-        level: 95%
+      - name: GitHub
+        level: 70%
         
-      - name: Reference Checks
+      - name: Salesforce
+        level: 85%
+        
+      - name: Google Drive
         level: 95%
         
