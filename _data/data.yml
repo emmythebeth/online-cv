@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    location: New York, NY <nr>(open to relocation)
+    location: New York, NY <br> (open to relocation)
     email: emmythebeth@gmail.com
     phone: 347 201 EMMY
     website:  #do not add http://
